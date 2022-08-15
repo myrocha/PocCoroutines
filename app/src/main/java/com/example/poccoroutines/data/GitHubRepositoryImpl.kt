@@ -1,6 +1,5 @@
 package com.example.poccoroutines.data
 
-import com.example.poccoroutines.data.api.GitHubApi
 import com.example.poccoroutines.data.datasource.GitHubRepositoryDataSource
 import com.example.poccoroutines.domain.repository.GitHubRepository
 import com.example.poccoroutines.data.model.RepositoryResponse
