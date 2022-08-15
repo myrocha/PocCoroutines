@@ -1,0 +1,3 @@
+package com.example.poccoroutines.presentation.viewmodel.action
+
+sealed interface GitHubRepositoryAction
