@@ -11,7 +11,6 @@ object KoinInitializer {
         networkModule,
         gitHubModule
     )
-
     fun initialize(application: Application) {
         startKoin {
             androidContext(application)
